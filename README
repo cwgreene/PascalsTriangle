@@ -1,0 +1,13 @@
+Pascals Triangle
+================
+Draws a color coded pascals triangle modulo a given number.
+
+Open pascals.html with your preferred web browser.
+
+Command line
+------------
+Windows:
+explorer pascals.html
+
+Mac OS:
+open pascals.html
